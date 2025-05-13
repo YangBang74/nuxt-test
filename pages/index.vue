@@ -1,6 +1,6 @@
 <template>
   <div>
-    <UCard class="mb-6">
+    <UCard class="mb-6">      
       <template #header>
         <div class="flex items-center justify-between">
           <h1 class="text-xl font-bold">Welcome to the Homepage</h1>

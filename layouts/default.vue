@@ -16,7 +16,9 @@
 </template>
 
 <script setup lang="ts">
+
 // Layout component for the application
 const sidebarRef = ref(null);
 const sidebarCollapsed = computed(() => sidebarRef.value?.isCollapsed || false);
+
 </script> 
