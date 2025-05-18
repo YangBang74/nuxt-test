@@ -11,7 +11,7 @@ export default defineNuxtConfig({
     '@nuxt/ui'
   ],
   ui: {
-    fonts: false
+    fonts: false,
   },
   css: ['~/assets/css/main.css'],
   
