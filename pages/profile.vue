@@ -27,7 +27,7 @@ onMounted(async () => {
     <div class="min-h-screen bg-gray-900 text-white p-6 space-y-6">
     <div class="flex items-center space-x-6">
       <div class="w-50 h-50">
-        <NuxtImg :src="data.photo" alt="Фото резьме" class="object-cover w-full"/>
+        <NuxtImg :src="data.photo" alt="Фото резюме" class="object-cover w-full"/>
       </div>
       <div>
         <h1 class="text-2xl font-bold">{{data.name}}</h1>
